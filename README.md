@@ -1,2 +1,2 @@
-# coffee
-咖啡商城
+# vue-coffee
+vue项目-咖啡商城
